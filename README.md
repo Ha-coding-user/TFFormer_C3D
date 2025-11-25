@@ -20,9 +20,9 @@ Schematics and detailed architectures of CGFormer. (a) The framework of the prop
 
 ## Quantitative Results
 
-![SemanticKITTI](./docs/SemanticKITTI.png)
+![SemanticKITTI](./docs/SemKITTI_quantitative_res.png)
 
-![KITTI360](./docs/KITTI360.png)
+![KITTI360](./docs/SSCBench_quantitative_res.png)
 
 ## Getting Started
 
