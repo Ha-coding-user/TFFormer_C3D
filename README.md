@@ -40,8 +40,8 @@ We provide the pretrained weights on SemanticKITTI and KITTI360 datasets, reprod
 
 |                           Dataset                            |    Backbone    |        IoU         |        mIoU        |                        Model Weights                         |
 | :----------------------------------------------------------: | :------------: | :----------------: | :----------------: | :----------------------------------------------------------: |
-| [SemanticKITTI](configs/TFFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 47.62, 49.53 (val) | 18.98, 19.31 (val) | [Link](https://drive.google.com/drive/folders/1IVSj7-NdDR8rAugpmJfrGFgbBijZ6tgM?usp=drive_link) |
-|   [KITTI360](configs/TFFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       49.28        |       21.74        | [Link](https://drive.google.com/drive/folders/1MT-L-FcO3wOESllupLPz93ZA9oj_Swfl?usp=drive_link) |
+| [SemanticKITTI](configs/TFFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 47.62, 49.53 (val) | 18.98, 19.31 (val) | [Link](https://drive.google.com/file/d/1TiUKGYVEVP1Io37CaD-P47CYT78wrRtC/view?usp=sharing) |
+|   [KITTI360](configs/TFFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       49.28        |       21.74        | [Link](https://drive.google.com/file/d/1aMbsynM31r3azRBSUeXyIszGyu-m5VkQ/view?usp=sharing) |
 
 ## Acknowledgement
 
