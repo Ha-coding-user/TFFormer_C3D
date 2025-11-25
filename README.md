@@ -38,10 +38,10 @@ We provide the pretrained weights on SemanticKITTI and KITTI360 datasets, reprod
 
 
 
-|                           Dataset                            |    Backbone    |        IoU         |        mIoU        |                        Model Weights                         |                        Training Logs                         |
-| :----------------------------------------------------------: | :------------: | :----------------: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [SemanticKITTI](configs/TFFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 47.62, 49.53 (val) | 18.98, 19.31 (val) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.zip) |
-|   [KITTI360](configs/TFFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       49.28        |       21.74        | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.zip) |
+|                           Dataset                            |    Backbone    |        IoU         |        mIoU        |                        Model Weights                         |
+| :----------------------------------------------------------: | :------------: | :----------------: | :----------------: | :----------------------------------------------------------: |
+| [SemanticKITTI](configs/TFFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 47.62, 49.53 (val) | 18.98, 19.31 (val) | [Link](https://drive.google.com/drive/folders/1IVSj7-NdDR8rAugpmJfrGFgbBijZ6tgM?usp=drive_link) |
+|   [KITTI360](configs/TFFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       49.28        |       21.74        | [Link](https://drive.google.com/drive/folders/1MT-L-FcO3wOESllupLPz93ZA9oj_Swfl?usp=drive_link) |
 
 ## Acknowledgement
 
@@ -73,5 +73,4 @@ If you find our work beneficial for your research, please consider citing our pa
 }
 ```
 
-If you encounter any issues, please contact zhu.yu.pk@gmail.com.
->>>>>>> 4610ce4 (Upload source code)
+If you encounter any issues, please contact gkwnsdn1130@gmail.com
