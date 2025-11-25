@@ -3,7 +3,7 @@
 ##  News
 ---
 - [2025/11/20] Code release
-- [2025/11/17] [**arXiv**](https://arxiv.org/pdf/2405.13675v4) preprint released
+- [2025/11/17] [**arXiv**](https://arxiv.org/abs/2511.12498) preprint released
 - [2025/11/08] Our paper has been accepted to AAAI2026!
 
 ## Introduction
@@ -34,7 +34,7 @@ step 4. Refer to [visualize.md](./docs/visualization.md) for visualization.
 
 ## Model Zoo
 
-We provide the pretrained weights on SemanticKITTI and KITTI360 datasets, reproduced with the released codebase. The pretrained checkpoint efficientnet-seg-depth can be download from [here](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/efficientnet-seg-depth.pth). All the checkpoints for our method and training log for two datasets can be found [here](https://github.com/pkqbajng/CGFormer/releases/tag/v1.0).
+We provide the pretrained weights on SemanticKITTI and KITTI360 datasets, reproduced with the released codebase. The pretrained checkpoint efficientnet-seg-depth can be download from [here](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/efficientnet-seg-depth.pth).
 
 
 
