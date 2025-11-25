@@ -40,8 +40,8 @@ We provide the pretrained weights on SemanticKITTI and KITTI360 datasets, reprod
 
 |                           Dataset                            |    Backbone    |        IoU         |        mIoU        |                        Model Weights                         |                        Training Logs                         |
 | :----------------------------------------------------------: | :------------: | :----------------: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [SemanticKITTI](configs/CGFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 44.41, 45.99 (val) | 16.63, 16.89 (val) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.zip) |
-|   [KITTI360](configs/CGFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       48.07        |       20.05        | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.zip) |
+| [SemanticKITTI](configs/TFFormer-Efficient-Swin-SemanticKITTI.py) | EfficientNetB7 | 44.41, 45.99 (val) | 16.63, 16.89 (val) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-SemanticKITTI.zip) |
+|   [KITTI360](configs/TFFormer-Efficient-Swin-KITTI360.py)    | EfficientNetB7 |       48.07        |       20.05        | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.ckpt) | [Link](https://github.com/pkqbajng/CGFormer/releases/download/v1.0/CGFormer-Efficient-Swin-KITTI360.zip) |
 
 ## Acknowledgement
 
