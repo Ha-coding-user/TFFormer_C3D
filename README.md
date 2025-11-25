@@ -1,5 +1,3 @@
-# TFFormer_C3D
----
 # Towards Temporal Fusion Beyond the Field of View for Caemra-based Semantic Scene Completion
 
 ##  News
@@ -14,7 +12,7 @@ Recent camera-based 3D semantic scene completion (SSC) methods have increasingly
 
 ## Method
 
-![overview](./docs/Fig_architecture.png)
+![overview](./docs/architecture.PNG)
 
 Schematics and detailed architectures of CGFormer. (a) The framework of the proposed CGFormer for camera-based semantic scene completion. The pipeline consists of the image encoder for extracting 2D features, the context and geometry aware voxel (CGVT) transformer for lifting the 2D features to 3D volumes, the 3D local and global encoder (LGE) for enhancing the 3D volumes and a decoding head to predict the semantic occupancy. (b) Detailed structure of the context and geometry aware voxel transformer. (c) Details of the Depth Net.
 
