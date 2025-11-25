@@ -55,6 +55,7 @@ Many thanks to these exceptional open source projects:
 - [DFA3D](https://github.com/IDEA-Research/3D-deformable-attention.git)
 - [VoxFormer](https://github.com/NVlabs/VoxFormer.git)
 - [OccFormer](https://github.com/zhangyp15/OccFormer.git)
+- [CGFormer](https://github.com/pkqbajng/CGFormer.git)
 
 As it is not possible to list all the projects of the reference papers. If you find we leave out your repo, please contact us and we'll update the lists.
 
@@ -64,13 +65,11 @@ If you find our work beneficial for your research, please consider citing our pa
 
 ```
 
-@inproceedings{CGFormer,
- title = {Context and Geometry Aware Voxel Transformer for Semantic Scene Completion},
- author = {Yu, Zhu and Zhang, Runmin and Ying, Jiacheng and Yu, Junchen and Hu, Xiaohai and Luo, Lun and Cao, Si-Yuan and Shen, Hui-liang},
- booktitle = {Advances in Neural Information Processing Systems},
- pages = {1531--1555},
- volume = {37},
- year = {2024}
+@article{bae2025towards,
+  title={Towards Temporal Fusion Beyond the Field of View for Camera-based Semantic Scene Completion},
+  author={Bae, Jongseong and Ha, Junwoo and Heo, Jinnyeong and Lee, Yeongin and Kim, Ha Young},
+  journal={arXiv preprint arXiv:2511.12498},
+  year={2025}
 }
 ```
 
