@@ -1,6 +1,6 @@
-data_root = '/nas3/Datasets/SSCBenchKITTI360'
-ann_file = '/nas3/Datasets/SSCBenchKITTI360/labels'
-stereo_depth_root = '/nas3/Datasets/SSCBenchKITTI360/depth'
+data_root = 'Data/SSCBenchKITTI360'
+ann_file = 'Data/SSCBenchKITTI360/labels'
+stereo_depth_root = 'Data/SSCBenchKITTI360/depth'
 camera_used = ['left']
 
 dataset_type = 'KITTI360Dataset'
@@ -153,7 +153,7 @@ model = dict(
         out_indices=(2, 3, 4, 5, 6),
         with_cp=False,
         init_cfg=dict(type='Pretrained', prefix='backbone', 
-        checkpoint='/nas1/hamyo/model_weights/CGFormer_others/efficientnet-b7_3rdparty_8xb32-aa_in1k_20220119-bf03951c.pth'),
+        checkpoint='./ckpts/efficientnet-b7_3rdparty_8xb32-aa_in1k_20220119-bf03951c.pth'),
     ),
     img_neck=dict(
         type='SECONDFPN',
@@ -401,4 +401,4 @@ lr_scheduler = dict(
     frequency=1
 )
 
-load_from='/nas1/hamyo/model_weights/CGFormer_others/efficientnet-seg-depth.pth'
+load_from='./ckpts/efficientnet-seg-depth.pth'
